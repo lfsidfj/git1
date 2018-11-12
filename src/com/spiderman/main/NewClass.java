@@ -5,5 +5,5 @@ public class NewClass {
 	//dev2
 	//master1
 	//dev3
-	//remote
+	//remote2
 }
